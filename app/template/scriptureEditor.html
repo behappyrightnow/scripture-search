@@ -1,0 +1,64 @@
+<div class="well">
+  <div class="panel panel-default panel-primary">
+      <div class="panel-heading">Scripture Search Data Builder</div>
+
+      <div class="panel-body">
+        <h2>Bhagvad Gita</h2>
+          <table>
+            <tr>
+                <td>Source File </td><td><input type="text" class="form-control" ng-model="scripture.sourceFile"/></td>
+            </tr>
+            <tr>
+                <td>Source Url </td><td><input type="text" class="form-control" ng-model="scripture.sourceUrl"/></td>
+            </tr>
+            <tr>
+                <td>Text Title </td><td><input type="text" class="form-control" ng-model="scripture.textTitle"/></td>
+            </tr>
+            <tr>
+                <td>Author </td><td><input type="text" class="form-control" ng-model="scripture.author"/></td>
+            </tr>
+            <tr>
+                <td>Language </td><td><input type="text" class="form-control" ng-model="scripture.language"/></td>
+            </tr>
+            <tr>
+                <td>Subject </td><td><input type="text" class="form-control" ng-model="scripture.subject"/></td>
+            </tr>
+            <tr>
+                <td>Comments </td><td><input type="text" class="form-control" ng-model="scripture.comments"/></td>
+            </tr>
+            <tr>
+                <td>Proofread </td><td><input type="text" class="form-control" ng-model="scripture.proofread"/></td>
+            </tr>
+            <tr>
+                <td>Last Update </td><td><input type="text" class="form-control" ng-model="scripture.lastUpdate"/></td>
+            </tr>
+            <tr>
+                <td>Email </td><td><input type="text" class="form-control" ng-model="scripture.email"/></td>
+            </tr>
+            <tr>
+                <td>License </td><td><input type="text" class="form-control" ng-model="scripture.license"/></td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                    <b>Scripture Original</b>
+                    <textarea class="form-control" cols="40" rows="5">
+                    </textarea>
+                </td>
+                <td>
+                    <b>English Transliteration</b>
+                    <textarea class="form-control" cols="40" rows="5">
+                    </textarea>
+                </td>
+            </tr>
+        </table>
+
+        <br/>
+        <button class="btn btn-primary">Generate combined data structure</button>
+        <br/><br/>
+        <textarea class="form-control" cols="40" rows="5">{{combinedStructure}}</textarea>
+
+      </div>
+    </div>
+</div>

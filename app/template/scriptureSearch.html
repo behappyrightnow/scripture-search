@@ -1,7 +1,16 @@
-<h2>Bhagvad Gita</h2>
-Type Devanagari to search
-<input type="text" ng-model="searchText" /><br/>
+<div class="well">
+  <div class="panel panel-default panel-primary">
+      <div class="panel-heading">Scripture Search</div>
 
-<span ng-repeat="line in scripture|filter:searchText track by $index">
-    {{line.sanskrit}}<br/>
-</span>
+      <div class="panel-body">
+        <h2>Bhagvad Gita</h2>
+        Type <i>देवनािगरी<i/> or <i>English</i> to search
+
+        <input class="form-control" type="text" ng-model="searchText" /><br/>
+
+        <span ng-repeat="line in scripture|filter:searchText track by $index">
+            {{line.sanskrit}}<br/>
+        </span>
+      </div>
+    </div>
+</div>
