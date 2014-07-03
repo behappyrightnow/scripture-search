@@ -1,5 +1,8 @@
 var gita = 
-{ 
+{
+        chapterInfo: [
+            {sanskritTitle: "अर्जुनविषादयोगः", engltranslit: "Arjuna vishaada yoga", startLine:3, endLine: 107},
+            {sanskritTitle: "साङ्ख्ययोगः", engltranslit: "Sankhya Yoga", startLine:108, endLine: 278}],
         scripture: [
                 {sanskrit : "||श्रीमद्भगवद्गीता ||", engltranslit : ".. shrImadbhagavadhgItA .."},
                 {sanskrit : "||ॐ श्री परमात्मने नमः ||", engltranslit : ".. AUM shrI paramAtmane namaH .."},

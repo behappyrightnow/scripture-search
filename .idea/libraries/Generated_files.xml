@@ -3,7 +3,7 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/app/js/app.js" />
-        <item url="file://$PROJECT_DIR$/app/js/dataBuilderDirective.js" />
+        <item url="file://$PROJECT_DIR$/app/js/scriptureBuilderDirective.js" />
         <item url="file://$PROJECT_DIR$/app/js/gita.js" />
         <item url="file://$PROJECT_DIR$/app/js/scriptureController.js" />
         <item url="file://$PROJECT_DIR$/app/js/scriptureDirective.js" />
