@@ -3,16 +3,24 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/app/js/app.js" />
+        <item url="file://$PROJECT_DIR$/app/scripts/scripture/scriptureBuilderDirective.js" />
         <item url="file://$PROJECT_DIR$/app/js/scriptureBuilderDirective.js" />
+        <item url="file://$PROJECT_DIR$/app/scripts/scripture/gita.js" />
+        <item url="file://$PROJECT_DIR$/app/scripts/scripture/scriptureController.js" />
         <item url="file://$PROJECT_DIR$/app/js/gita.js" />
         <item url="file://$PROJECT_DIR$/app/js/scriptureController.js" />
+        <item url="file://$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.js" />
         <item url="file://$PROJECT_DIR$/app/js/scriptureDirective.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/app/js/app.js" />
+      <root url="file://$PROJECT_DIR$/app/scripts/scripture/scriptureBuilderDirective.js" />
       <root url="file://$PROJECT_DIR$/app/js/scriptureBuilderDirective.js" />
+      <root url="file://$PROJECT_DIR$/app/scripts/scripture/gita.js" />
+      <root url="file://$PROJECT_DIR$/app/scripts/scripture/scriptureController.js" />
       <root url="file://$PROJECT_DIR$/app/js/gita.js" />
+      <root url="file://$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.js" />
       <root url="file://$PROJECT_DIR$/app/js/scriptureController.js" />
       <root url="file://$PROJECT_DIR$/app/js/scriptureDirective.js" />
     </CLASSES>

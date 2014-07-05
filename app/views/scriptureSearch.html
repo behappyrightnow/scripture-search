@@ -1,0 +1,21 @@
+
+  <div class="panel panel-default panel-primary">
+      <div class="panel-heading">Bhagvad Gita</div>
+
+      <div class="panel-body">
+        Type <i>देवनािगरी<i/> or <i>English</i> to search
+
+        <input class="form-control" type="text" ng-model="searchText" /><br/>
+        <span ng-repeat="line in (filteredData = (scripture | filter:searchText))" ng-if="$index<limit">
+            <span ng-if="line.chapterIndex!==filteredData[$index-1].chapterIndex || $index === 0">
+                <hr/>
+                <h2>{{chapters[line.chapterIndex].sanskritTitle}}</h2>
+            </span>
+            {{line.sanskrit}}<br/>
+
+        </span>
+        <div class="panel panel-default" ng-mouseover="expandLimit()">
+            <div class="panel-heading">More...</div>
+        </div>
+      </div>
+  </div>
