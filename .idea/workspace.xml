@@ -2,143 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10052d11-c1ef-4a2a-97c7-d0a52861b54d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/dataBuilder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/app.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-animate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-animate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-animate.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-cookies.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-cookies.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-cookies.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-loader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-loader.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-loader.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-mocks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-resource.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-resource.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-resource.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-route.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-route.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-route.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-sanitize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-sanitize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-sanitize.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-touch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-touch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-touch.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/css/animations.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/css/doc_widgets.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/css/docs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/css/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/AngularJS-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/One_Way_Data_Binding.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/Two_Way_Data_Binding.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/angular_parts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/angularjs-for-header-only.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/form_data_flow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/about_model_final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/about_view_final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/concepts-controller.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/concepts-directive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/concepts-model.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/concepts-module-injector.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/concepts-runtime.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/concepts-scope.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/concepts-startup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/concepts-view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/di_sequence_final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/dom_scope_final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/hashbang_vs_regular_url.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/scenario_runner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/guide/simple_scope_final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/helloworld.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/helloworld_2way.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/tutorial/catalog_screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/tutorial/tutorial_00.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/tutorial/tutorial_00_final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/tutorial/tutorial_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/tutorial/tutorial_03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/tutorial/tutorial_04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/tutorial/tutorial_07_final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/tutorial/tutorial_08-09_final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/tutorial/tutorial_10-11_final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/img/tutorial/xhr_service_final.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/js/docs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/notes/empty.tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/AUTO.$injector.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/AUTO.$provide.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/AUTO.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/angular.bind.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/angular.copy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/angular.equals.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/angular.extend.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/angular.isDate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/angular.mock.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/angular.module.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/angular.noop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/angular.toJson.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$animate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$compile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$controller.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$document.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$filter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$http.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$locale.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$log.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$parse.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$q.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$rootScope.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$sce.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$timeout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.$window.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ng.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ngAnimate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ngCookies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ngMock.$log.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ngMock.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ngMockE2E.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ngResource.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ngRoute.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ngSanitize.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/docs/partials/api/ngTouch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/errors.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/version.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/version.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/js/bootstrap-modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/js/bootstrap-popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/js/bootstrap-tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/js/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/bootstrap/popover-demo.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/js/gita.ts" afterPath="$PROJECT_DIR$/app/scripts/scripture/gita.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/js/scriptureBuilderDirective.ts" afterPath="$PROJECT_DIR$/app/scripts/scripture/scriptureBuilderDirective.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/js/scriptureController.ts" afterPath="$PROJECT_DIR$/app/scripts/scripture/scriptureController.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/js/scriptureDirective.ts" afterPath="$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/lib/angular.d.ts" afterPath="$PROJECT_DIR$/app/scripts/lib/angular.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/lib/jasmine-jquery.d.ts" afterPath="$PROJECT_DIR$/app/scripts/lib/jasmine-jquery.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/lib/jasmine.d.ts" afterPath="$PROJECT_DIR$/app/scripts/lib/jasmine.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/lib/jquery.d.ts" afterPath="$PROJECT_DIR$/app/scripts/lib/jquery.d.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/template/scriptureEditor.html" afterPath="$PROJECT_DIR$/app/views/scriptureEditor.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/template/scriptureSearch.html" afterPath="$PROJECT_DIR$/app/views/scriptureSearch.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/scripture/gita.ts" afterPath="$PROJECT_DIR$/app/scripts/scripture/gita.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.ts" afterPath="$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/scriptureSearch.html" afterPath="$PROJECT_DIR$/app/views/scriptureSearch.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="scripture-search.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -164,16 +34,7 @@
       <file leaf-file-name="scriptureDirective.ts" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="32" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scriptureEditor.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/scriptureEditor.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1656">
+            <state line="55" column="34" selection-start="2502" selection-end="2502" vertical-scroll-proportion="0.0" vertical-offset="933" max-vertical-offset="1608">
               <folding />
             </state>
           </provider>
@@ -182,7 +43,34 @@
       <file leaf-file-name="scriptureSearch.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/scriptureSearch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="648">
+            <state line="20" column="43" selection-start="1056" selection-end="1056" vertical-scroll-proportion="-10.666667" vertical-offset="128" max-vertical-offset="888">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".bowerrc" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.bowerrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="9" selection-start="75" selection-end="75" vertical-scroll-proportion="0.37668163" vertical-offset="0" max-vertical-offset="446">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="22" selection-start="298" selection-end="298" vertical-scroll-proportion="-0.15151516" vertical-offset="259" max-vertical-offset="672">
               <folding />
             </state>
           </provider>
@@ -200,9 +88,9 @@
       <file leaf-file-name="scriptureDirective.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="17" selection-start="884" selection-end="884" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="1320">
+            <state line="37" column="17" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1608">
               <folding>
-                <marker date="1404603006000" expanded="true" signature="771:865" placeholder="{...}" />
+                <marker date="1404606612000" expanded="true" signature="825:922" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -211,34 +99,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="909" selection-end="933" vertical-scroll-proportion="-6.3939395" vertical-offset="365" max-vertical-offset="1968">
+            <state line="41" column="0" selection-start="1330" selection-end="1330" vertical-scroll-proportion="-3.6363637" vertical-offset="864" max-vertical-offset="1800">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <file leaf-file-name="gita.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/scripture/gita.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="332" selection-end="394" vertical-scroll-proportion="-6.5454545" vertical-offset="0" max-vertical-offset="456">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="29" selection-start="500" selection-end="500" vertical-scroll-proportion="0.5459057" vertical-offset="20" max-vertical-offset="456">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scriptureBuilderDirective.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/scripture/scriptureBuilderDirective.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="34" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+            <state line="9" column="110" selection-start="798" selection-end="798" vertical-scroll-proportion="-8.307693" vertical-offset="0" max-vertical-offset="40440">
               <folding />
             </state>
           </provider>
@@ -271,28 +141,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/js/scriptureController.ts" />
-        <option value="$PROJECT_DIR$/app/js/dataBuilderDirective.ts" />
-        <option value="$PROJECT_DIR$/app/dataBuilder.html" />
         <option value="$PROJECT_DIR$/app/template/scriptureEditor.html" />
         <option value="$PROJECT_DIR$/app/js/scriptureBuilderDirective.ts" />
         <option value="$PROJECT_DIR$/app/js/gita.ts" />
         <option value="$PROJECT_DIR$/app/js/scriptureDirective.ts" />
         <option value="$PROJECT_DIR$/app/js/scriptureDirective.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/scripture/scriptureBuilderDirective.ts" />
         <option value="$PROJECT_DIR$/app/scripts/scripture/scriptureController.ts" />
         <option value="$PROJECT_DIR$/app/template/scriptureSearch.html" />
-        <option value="$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.ts" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/views/main.html" />
         <option value="$PROJECT_DIR$/app/views/about.html" />
+        <option value="$PROJECT_DIR$/app/scripts/scripture/gita.ts" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.ts" />
+        <option value="$PROJECT_DIR$/app/views/scriptureSearch.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="23" />
+    <option name="x" value="65" />
+    <option name="y" value="22" />
     <option name="width" value="1392" />
     <option name="height" value="860" />
   </component>
@@ -351,7 +221,97 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-awesome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -385,6 +345,72 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture-search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gita.ts" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -608,19 +634,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="23" width="1392" height="860" extended-state="0" />
+    <frame x="65" y="22" width="1392" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32837838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2741456" sideWeight="0.6738545" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15007429" sideWeight="0.6716216" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32614556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32567567" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -634,7 +660,7 @@
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -647,10 +673,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25760952" sideWeight="0.6738545" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27340266" sideWeight="0.671159" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32614556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32614556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -672,46 +698,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/scripts/scripture/gita.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="12" selection-start="824" selection-end="824" vertical-scroll-proportion="0.6055046" vertical-offset="0" max-vertical-offset="40296">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/lib/angular.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="24864">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/scripture/scriptureBuilderDirective.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="34" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/scripture/scriptureController.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="34" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="17" selection-start="884" selection-end="884" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="1320">
-          <folding>
-            <marker date="1404603006000" expanded="true" signature="771:865" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/scriptureSearch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
           <folding />
         </state>
       </provider>
@@ -730,17 +719,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.ts">
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="32" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
+        <state line="285" column="23" selection-start="7185" selection-end="7185" vertical-scroll-proportion="0.39215687" vertical-offset="6680" max-vertical-offset="10032">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/views/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="8" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+        <state line="10" column="29" selection-start="500" selection-end="500" vertical-scroll-proportion="0.59850377" vertical-offset="0" max-vertical-offset="456">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="44" selection-start="161" selection-end="161" vertical-scroll-proportion="0.17391305" vertical-offset="0" max-vertical-offset="456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/scripture/gita.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="40320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/scripture/gita.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="110" selection-start="798" selection-end="798" vertical-scroll-proportion="-8.307693" vertical-offset="0" max-vertical-offset="40440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="691">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="298" selection-end="298" vertical-scroll-proportion="-0.15151516" vertical-offset="259" max-vertical-offset="672">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="1330" selection-end="1330" vertical-scroll-proportion="-3.6363637" vertical-offset="864" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="17" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1608">
+          <folding>
+            <marker date="1404606612000" expanded="true" signature="825:922" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -751,23 +791,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/scripts/scripture/scriptureDirective.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="909" selection-end="933" vertical-scroll-proportion="-6.3939395" vertical-offset="365" max-vertical-offset="1968">
+        <state line="55" column="34" selection-start="2502" selection-end="2502" vertical-scroll-proportion="0.0" vertical-offset="933" max-vertical-offset="1608">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+    <entry file="file://$PROJECT_DIR$/app/views/scriptureSearch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="332" selection-end="394" vertical-scroll-proportion="-6.5454545" vertical-offset="0" max-vertical-offset="456">
+        <state line="20" column="43" selection-start="1056" selection-end="1056" vertical-scroll-proportion="-10.666667" vertical-offset="128" max-vertical-offset="888">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/about.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="29" selection-start="500" selection-end="500" vertical-scroll-proportion="0.5459057" vertical-offset="20" max-vertical-offset="456">
+        <state line="7" column="9" selection-start="75" selection-end="75" vertical-scroll-proportion="0.37668163" vertical-offset="0" max-vertical-offset="446">
           <folding />
         </state>
       </provider>

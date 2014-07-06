@@ -5,3 +5,4 @@ dist
 bower_components
 *.js
 *.js.map
+.DS_Store

@@ -3,7 +3,7 @@
       <div class="panel-heading">Bhagvad Gita</div>
 
       <div class="panel-body">
-        Type <i>देवनािगरी<i/> or <i>English</i> to search
+        Type <i>देवनािगरी</i> or <i>English</i> to search
 
         <input class="form-control" type="text" ng-model="searchText" /><br/>
         <span ng-repeat="line in (filteredData = (scripture | filter:searchText))" ng-if="$index<limit">
@@ -11,10 +11,20 @@
                 <hr/>
                 <h2>{{chapters[line.chapterIndex].sanskritTitle}}</h2>
             </span>
-            {{line.sanskrit}}<br/>
+            {{line.sanskrit}}
+            <span ng-if="line.more === false && (filteredData[$index+1].index-filteredData[$index].index>1 || $index === filteredData.length - 1)">
+                <i class="fa fa-chevron-circle-down" ng-click="showLinesAfter(line.index)"></i>
+            </span>
+            <br/>
+            <span ng-if="line.more === true">
+                <span ng-repeat="i in getLinesAfter(line.index)">
+                    {{scripture[i].sanskrit}}<br/>
+                </span>
+            </span>
 
         </span>
-        <div class="panel panel-default" ng-mouseover="expandLimit()">
+
+        <div class="panel panel-default" ng-mouseover="expandLimit()" ng-if="filteredData.length > limit">
             <div class="panel-heading">More...</div>
         </div>
       </div>

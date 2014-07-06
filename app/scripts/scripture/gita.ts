@@ -1,8 +1,14 @@
 var gita = 
 {
         chapterInfo: [
-            {sanskritTitle: "अर्जुनविषादयोगः", engltranslit: "Arjuna vishaada yoga", startLine:3, endLine: 107},
-            {sanskritTitle: "साङ्ख्ययोगः", engltranslit: "Sankhya Yoga", startLine:108, endLine: 278}],
+            {sanskritTitle: "अर्जुनविषादयोगः", engltranslit: "arjunaviShAdayogaH", startLine:3, endLine: 107},
+            {sanskritTitle: "साङ्ख्ययोगः", engltranslit: "sAN^khyayogaH", startLine:108, endLine: 278},
+            {sanskritTitle: "कर्मयोगः", engltranslit: "karmayogaH", startLine:279, endLine: 372},
+            {sanskritTitle: "ज्ञानकर्मसंन्यासयोगः", engltranslit: "GYAnakarmasa.nnyAsayogaH", startLine:373, endLine: 463},
+            {sanskritTitle: "संन्यासयोगः", engltranslit: "sa.nnyAsayogaH", startLine:464, endLine: 527},
+            {sanskritTitle: "आत्मसंयमयोगः", engltranslit: "Atmasa.nyamayogaH", startLine:528, endLine: 630},
+            {sanskritTitle: "ज्ञानविज्ञानयोगः", engltranslit: "GYAnaviGYAnayogaH", startLine:631, endLine: 695}
+        ],
         scripture: [
                 {sanskrit : "||श्रीमद्भगवद्गीता ||", engltranslit : ".. shrImadbhagavadhgItA .."},
                 {sanskrit : "||ॐ श्री परमात्मने नमः ||", engltranslit : ".. AUM shrI paramAtmane namaH .."},

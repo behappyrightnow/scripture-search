@@ -18,6 +18,7 @@ angular.module('scriptureSearchApp')
                     for (var i=0;i<scope.scripture.length;i++) {
                         scope.scripture[i].index = i;
                         scope.scripture[i].chapterIndex = scope.chapterOf(i);
+                        scope.scripture[i].more = false;
                     }
                 }
                 scope.expandLimit = function() {
@@ -42,6 +43,17 @@ angular.module('scriptureSearchApp')
                         }
                     }
                     return beginning;
+                }
+                scope.showLinesAfter = function(index) {
+                    console.log("showing lines after "+index);
+                    scope.scripture[index].more = true;
+                }
+                scope.getLinesAfter = function(index) {
+                    var answer = new Array();
+                    for (var i = 0; i<4;i++) {
+                        answer.push(index+i+1);
+                    }
+                    return answer;
                 }
                 scope.init();
             }
