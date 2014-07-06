@@ -1,8 +1,14 @@
 
   <div class="panel panel-default panel-primary">
-      <div class="panel-heading">Bhagvad Gita</div>
-
-      <div class="panel-body">
+      <div class="panel-heading">{{scriptureSrc.textTitle}}</div>
+      <div class="panel-body" ng-if="licenseAccepted === false">
+          <i>This text ({{scriptureSrc.textTitle}}) was proof read by <a href="mailto:{{scriptureSrc.proofReaderEmail}}">{{scriptureSrc.proofReaderName}}</a> and is accessible under the following license:</i><p/><p/>
+          {{scriptureSrc.license}}<br/>
+          <a href="{{scriptureSrc.sourceUrl}}">Source</a>
+          <p/>
+          <button class="btn btn-primary" ng-click="acceptLicense()">I accept</button>
+      </div>
+      <div class="panel-body" ng-if="licenseAccepted === true">
         Type <i>देवनािगरी</i> or <i>English</i> to search
 
         <input class="form-control" type="text" ng-model="searchText" /><br/>

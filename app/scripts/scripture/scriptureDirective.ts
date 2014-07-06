@@ -14,6 +14,10 @@ angular.module('scriptureSearchApp')
                 scope.limit = 50;
                 scope.scripture = scope.scriptureSrc.scripture;
                 scope.chapters = scope.scriptureSrc.chapterInfo;
+                scope.licenseAccepted = false;
+                scope.acceptLicense = function() {
+                    scope.licenseAccepted = true;
+                }
                 scope.init = function() {
                     for (var i=0;i<scope.scripture.length;i++) {
                         scope.scripture[i].index = i;

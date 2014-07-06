@@ -1666,13 +1666,14 @@ var gita =
 
         ],
         sourceFile : "bhagavadnew.itx",
-        sourceUrl: "http://sanskritdocuments.org/all_sa/bhagvadnew_sa.html",
+        sourceUrl: "http://sanskritdocuments.org/doc_giitaa/",
         textTitle: "Shrimad Bhagvadgita",
         author: "Veda Vyasa",
         language: "Sanskrit",
         subject: "philosophy/hinduism/religion",
         comments: "Part of Mahabharata",
-        proofread: "Suryansu Ray suryansuray@yahoo.com",
+        proofReaderName: "Suryansu Ray",
+        proofReaderEmail: "suryansuray@yahoo.com",
         lastUpdate: "September 1, 2007",
         email: " sanskrit@cheerful.com",
         license: "The text is to be used for personal studies and research only. Any use for commercial purpose is prohibited as a 'gentleman's' agreement."
