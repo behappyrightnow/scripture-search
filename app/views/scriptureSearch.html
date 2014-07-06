@@ -1,37 +1,54 @@
+  <div class="container bs-docs-container">
+    <div class="col-md-9">
+        <div class="panel panel-default panel-primary">
+          <div class="panel-heading">{{scriptureSrc.textTitle}}</div>
+          <div class="panel-body" ng-if="licenseAccepted === false">
+              <i>This text ({{scriptureSrc.textTitle}}) was proof read by <a href="mailto:{{scriptureSrc.proofReaderEmail}}">{{scriptureSrc.proofReaderName}}</a> and is accessible under the following license:</i><p/><p/>
+              {{scriptureSrc.license}}<br/>
+              <a href="{{scriptureSrc.sourceUrl}}">Source</a>
+              <p/>
+              <button class="btn btn-primary" ng-click="acceptLicense()">I accept</button>
+          </div>
+          <div class="panel-body" ng-if="licenseAccepted === true">
+                    Type <i>देवनािगरी</i> or <i>English</i> to search
 
-  <div class="panel panel-default panel-primary">
-      <div class="panel-heading">{{scriptureSrc.textTitle}}</div>
-      <div class="panel-body" ng-if="licenseAccepted === false">
-          <i>This text ({{scriptureSrc.textTitle}}) was proof read by <a href="mailto:{{scriptureSrc.proofReaderEmail}}">{{scriptureSrc.proofReaderName}}</a> and is accessible under the following license:</i><p/><p/>
-          {{scriptureSrc.license}}<br/>
-          <a href="{{scriptureSrc.sourceUrl}}">Source</a>
-          <p/>
-          <button class="btn btn-primary" ng-click="acceptLicense()">I accept</button>
-      </div>
-      <div class="panel-body" ng-if="licenseAccepted === true">
-        Type <i>देवनािगरी</i> or <i>English</i> to search
+                    <input class="form-control" type="text" ng-model="searchText" /><br/>
+                    <span ng-repeat="line in (filteredData = (scripture | filter:searchText))" ng-if="($index-startLine)<limit && line.index >= startLine">
+                        <span ng-if="line.chapterIndex!==filteredData[$index-1].chapterIndex || ($index-startLine) === 0">
+                            <h2 ng-click="chapterClicked(line.chapterIndex)">{{chapters[line.chapterIndex].sanskritTitle}}</h2>
+                        </span>
+                        {{line.sanskrit}}
+                        <span ng-if="line.more === false && (filteredData[$index+1].index-filteredData[$index].index>1 || $index === filteredData.length - 1)">
+                            <i class="fa fa-chevron-circle-down" ng-click="showLinesAfter(line.index)"></i>
+                        </span>
+                        <br/>
+                        <span ng-if="line.more === true">
+                            <span ng-repeat="i in getLinesAfter(line.index)">
+                                {{scripture[i].sanskrit}}<br/>
+                            </span>
+                        </span>
 
-        <input class="form-control" type="text" ng-model="searchText" /><br/>
-        <span ng-repeat="line in (filteredData = (scripture | filter:searchText))" ng-if="$index<limit">
-            <span ng-if="line.chapterIndex!==filteredData[$index-1].chapterIndex || $index === 0">
-                <hr/>
-                <h2>{{chapters[line.chapterIndex].sanskritTitle}}</h2>
-            </span>
-            {{line.sanskrit}}
-            <span ng-if="line.more === false && (filteredData[$index+1].index-filteredData[$index].index>1 || $index === filteredData.length - 1)">
-                <i class="fa fa-chevron-circle-down" ng-click="showLinesAfter(line.index)"></i>
-            </span>
-            <br/>
-            <span ng-if="line.more === true">
-                <span ng-repeat="i in getLinesAfter(line.index)">
-                    {{scripture[i].sanskrit}}<br/>
-                </span>
-            </span>
+                    </span>
 
-        </span>
-
-        <div class="panel panel-default" ng-mouseover="expandLimit()" ng-if="filteredData.length > limit">
-            <div class="panel-heading">More...</div>
+                    <div class="panel panel-default" ng-mouseover="expandLimit()" ng-if="filteredData.length > limit">
+                        <div class="panel-heading">More...</div>
+                    </div>
+                </div>
+            </div>
         </div>
+        <div class="col-md-3" ng-if="licenseAccepted === true">
+            <div class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" role="complementary">
+                <div class="panel panel-default panel-primary">
+                  <div class="panel-heading">Chapters</div>
+                    <ul class="nav bs-docs-sidenav">
+                        <li ng-repeat="chapter in scriptureSrc.chapterInfo" ng-class="{selected: $index === currentChapter}">
+                            <a ng-click="chapterClicked($index)">{{$index+1}}: {{chapter.sanskritTitle}}</a>
+                        </li>
+                    </ul>
+                  </div>
+                </div>
+            </div>
+        </div>
+
       </div>
   </div>

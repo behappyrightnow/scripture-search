@@ -15,6 +15,8 @@ angular.module('scriptureSearchApp')
                 scope.scripture = scope.scriptureSrc.scripture;
                 scope.chapters = scope.scriptureSrc.chapterInfo;
                 scope.licenseAccepted = false;
+                scope.startLine = 0;
+                scope.currentChapter = 0;
                 scope.acceptLicense = function() {
                     scope.licenseAccepted = true;
                 }
@@ -58,6 +60,13 @@ angular.module('scriptureSearchApp')
                         answer.push(index+i+1);
                     }
                     return answer;
+                }
+                scope.chapterClicked = function(chapterNum) {
+                    console.log("Clicked Chapter "+chapterNum);
+                    var chapters = scope.scriptureSrc.chapterInfo;
+                    scope.startLine = chapters[chapterNum].startLine;
+                    scope.currentChapter = chapterNum;
+                    scope.searchText = "";
                 }
                 scope.init();
             }
