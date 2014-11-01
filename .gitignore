@@ -4,5 +4,6 @@ dist
 .sass-cache
 bower_components
 *.js
+!Gruntfile.js
 *.js.map
 .DS_Store
