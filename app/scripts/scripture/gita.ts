@@ -7,7 +7,8 @@ var gita =
             {sanskritTitle: "ज्ञानकर्मसंन्यासयोगः", engltranslit: "GYAnakarmasa.nnyAsayogaH", startLine:373, endLine: 463},
             {sanskritTitle: "संन्यासयोगः", engltranslit: "sa.nnyAsayogaH", startLine:464, endLine: 527},
             {sanskritTitle: "आत्मसंयमयोगः", engltranslit: "Atmasa.nyamayogaH", startLine:528, endLine: 630},
-            {sanskritTitle: "ज्ञानविज्ञानयोगः", engltranslit: "GYAnaviGYAnayogaH", startLine:631, endLine: 695}
+            {sanskritTitle: "ज्ञानविज्ञानयोगः", engltranslit: "GYAnaviGYAnayogaH", startLine:631, endLine: 695},
+            {sanskritTitle: "अक्षरब्रह्मयोगः", engltranslit: "akSharabrahmayogaH", startLine:696, endLine: 765}
         ],
         scripture: [
                 {sanskrit : "||श्रीमद्भगवद्गीता ||", engltranslit : ".. shrImadbhagavadhgItA .."},
